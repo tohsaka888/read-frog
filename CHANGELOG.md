@@ -1,5 +1,11 @@
 # @read-frog/extension
 
+## 1.47.3
+
+### Patch Changes
+
+- [#2193](https://github.com/mengxi-ream/read-frog/pull/2193) [`5141886`](https://github.com/mengxi-ream/read-frog/commit/514188603026bf4783864072f53d288bb8a0f331) Thanks [@taiiiyang](https://github.com/taiiiyang)! - fix(subtitles): keep YouTube subtitles on screen after the miniplayer leaves a stray progress bar
+
 ## 1.47.2
 
 ### Patch Changes
